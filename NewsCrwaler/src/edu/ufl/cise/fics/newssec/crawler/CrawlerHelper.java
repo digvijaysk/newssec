@@ -17,8 +17,18 @@ public class CrawlerHelper {
 	// web browser.
 	private static final String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
 	public static Set<String> pagesVisited = new HashSet<String>();
+	
 	private Document htmlDocument;
 
+	static {
+		pagesVisited.add("http://www.abyznewslinks.com/");
+		pagesVisited.add("http://www.abyznewslinks.com/seara.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/priva.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/admod.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/resou.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/about.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/contc.htm");
+	}
 	/**
 	 * This performs all the work. It makes an HTTP request, checks the response,
 	 * and then gathers up all the links on the page. Perform a searchForWord after
@@ -48,9 +58,10 @@ public class CrawlerHelper {
 			Elements linksOnPage = htmlDocument.select("a[href]");
 			System.out.println("Found (" + linksOnPage.size() + ") links");
 			for (Element link : linksOnPage) {
-				System.out.println(link.attr("href")+"----------------------------------------------");
+				
 				String pageUrl =link.absUrl("href");
-				if(pageUrl.contains("abyznewslinks.com") ) {
+				if(pageUrl.contains("abyznewslinks.com") && !isVisitedPage(pageUrl)) {
+					System.out.println(link.attr("href")+"----------------------------------------------");
 					links.add(pageUrl);
 				}
 				
