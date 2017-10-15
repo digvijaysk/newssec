@@ -6,13 +6,12 @@ import java.util.LinkedList;
 import java.util.List;
 
 /**
- * 
- * 
+ *
  * @author digvijay kulkarni
  *
  */
 public class Crawler {
-	private static final int MAX_PAGES_TO_SEARCH = 300;
+	private static final int MAX_PAGES_TO_SEARCH = 30;
 
 	private int visitedPageCount = 0;
 
@@ -22,27 +21,31 @@ public class Crawler {
 		}
 
 		List<String> pagesToVisit = new LinkedList<String>();
-
 		CrawlerHelper helper = new CrawlerHelper();
-
 		pagesToVisit = helper.crawl(url);
-		// System.out.println(url);
+		System.out.println(url);
+
 		for (String nextPage : pagesToVisit) {
 			search(nextPage);
 		}
-
 	}
 
 	// http://www.abyznewslinks.com/allco.htm
 
 	public static void main(String[] args) throws SQLException {
-		//Crawler spider = new Crawler();
-		//spider.search("http://www.abyznewslinks.com/allco.htm");
+		// Crawler spider = new Crawler();
+		// spider.search("http://www.abyznewslinks.com/allco.htm");
 		MySQLConnection con = new MySQLConnection();
-		PreparedStatement stmt = con.connect().prepareStatement("INSERT INTO  news_websites (name, continent, country, coverage, url, media_type, media_focus, language, source, twitter_followers, facebook_likes, quantcast_rank,"
-			   +"google_trend_index) values( 'AajTak', 'Asia', 'India', 'asdas', 'http://aajtak2.com', 'bc', 'drama', 'hindi', 'tv', '12', '13', '23', '80'");
-	
+		PreparedStatement stmt = con.connect().prepareStatement(
+				"INSERT INTO  news_websites (name, continent, country, coverage, url, media_type, media_focus, language, source, twitter_followers, facebook_likes, quantcast_rank,"
+						+ "google_trend_index) values( 'AajTak', 'Asia', 'India', 'asdas', 'http://aajtak2.com', 'bc', 'drama', 'hindi', 'tv', '12', '13', '23', '80'");
+
 		stmt.execute();
 		con.disconnect();
+
+		// public static void main(String[] args) {
+		Crawler spider = new Crawler();
+		spider.search("http://www.abyznewslinks.com/nicar.htm");
+
 	}
 }
