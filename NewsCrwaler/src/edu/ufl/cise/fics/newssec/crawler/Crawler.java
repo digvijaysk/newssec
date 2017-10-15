@@ -1,5 +1,7 @@
 package edu.ufl.cise.fics.newssec.crawler;
 
+import java.sql.PreparedStatement;
+import java.sql.SQLException;
 import java.util.LinkedList;
 import java.util.List;
 
@@ -33,8 +35,14 @@ public class Crawler {
 
 	// http://www.abyznewslinks.com/allco.htm
 
-	public static void main(String[] args) {
-		Crawler spider = new Crawler();
-		spider.search("http://www.abyznewslinks.com/allco.htm");
+	public static void main(String[] args) throws SQLException {
+		//Crawler spider = new Crawler();
+		//spider.search("http://www.abyznewslinks.com/allco.htm");
+		MySQLConnection con = new MySQLConnection();
+		PreparedStatement stmt = con.connect().prepareStatement("INSERT INTO  news_websites (name, continent, country, coverage, url, media_type, media_focus, language, source, twitter_followers, facebook_likes, quantcast_rank,"
+			   +"google_trend_index) values( 'AajTak', 'Asia', 'India', 'asdas', 'http://aajtak2.com', 'bc', 'drama', 'hindi', 'tv', '12', '13', '23', '80'");
+	
+		stmt.execute();
+		con.disconnect();
 	}
 }
