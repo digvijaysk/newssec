@@ -14,7 +14,7 @@ public class Crawler {
 	private int visitedPageCount = 0;
 
 	public void search(String url) {
-		if (visitedPageCount > MAX_PAGES_TO_SEARCH || CrawlerHelper.isVisitedPage(url)) {
+		if (visitedPageCount > MAX_PAGES_TO_SEARCH) {
 			return;
 		}
 

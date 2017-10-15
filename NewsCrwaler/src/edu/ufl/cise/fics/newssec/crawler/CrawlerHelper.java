@@ -20,12 +20,23 @@ public class CrawlerHelper {
 
 	private static final String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
 	public static Set<String> pagesVisited = new HashSet<String>();
+
 	private Document htmlDocument;
 	private List<DBRow> dbRecords;
 	private int numberOfRows;
 
 	public CrawlerHelper() {
 		dbRecords = new ArrayList<DBRow>();
+	}
+
+	static {
+		pagesVisited.add("http://www.abyznewslinks.com/");
+		pagesVisited.add("http://www.abyznewslinks.com/seara.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/priva.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/admod.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/resou.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/about.htm");
+		pagesVisited.add("http://www.abyznewslinks.com/contc.htm");
 	}
 
 	/**
@@ -44,22 +55,22 @@ public class CrawlerHelper {
 			Connection connection = Jsoup.connect(url).userAgent(USER_AGENT);
 			Document htmlDocument = connection.get();
 			this.htmlDocument = htmlDocument;
-			if (connection.response().statusCode() == 200)
-			{
+			if (connection.response().statusCode() == 200) {
 				System.out.println("\n **Visiting** Received web page at " + url);
 			}
+
 			if (!isLeaf("Media Type")) {
 				Elements linksOnPage = htmlDocument.select("a[href]");
+
 				System.out.println("Found (" + linksOnPage.size() + ") links");
 				for (Element link : linksOnPage) {
 					System.out.println(link.attr("href") + "----------------------------------------------");
 					String pageUrl = link.absUrl("href");
-					if (pageUrl.contains("abyznewslinks.com")) {
+					if (pageUrl.contains("abyznewslinks.com") && !isVisitedPage(pageUrl)) {
 						links.add(pageUrl);
 					}
 					return links;
 				}
-
 			} else {
 				parseLeafNode();
 				return links; // no links
