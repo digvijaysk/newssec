@@ -30,13 +30,31 @@ public class Crawler {
 		}
 	}
 
-	// http://www.abyznewslinks.com/allco.htm
+	/**
+	 * Commit the list of DBRow to the database.
+	 * 
+	 * @param rows
+	 *            - List<DBRow>
+	 * @throws SQLException
+	 */
+	public static void saveRowsToDatabase(List<DBRow> rows) throws SQLException {
+		MySQLConnection con = new MySQLConnection();
+		con.getConnection().setAutoCommit(false);
+
+		for (DBRow row : rows) {
+			PreparedStatement stmt = con.getConnection().prepareStatement(row.getInsertQuery());
+			stmt.execute();
+		}
+
+		con.getConnection().commit();
+		con.disconnect();
+	}
 
 	public static void main(String[] args) throws SQLException {
 		// Crawler spider = new Crawler();
 		// spider.search("http://www.abyznewslinks.com/allco.htm");
 		MySQLConnection con = new MySQLConnection();
-		PreparedStatement stmt = con.connect().prepareStatement(
+		PreparedStatement stmt = con.getConnection().prepareStatement(
 				"INSERT INTO  news_websites (name, continent, country, coverage, url, media_type, media_focus, language, source, twitter_followers, facebook_likes, quantcast_rank,"
 						+ "google_trend_index) values( 'AajTak', 'Asia', 'India', 'asdas', 'http://aajtak3.com', 'bc', 'drama', 'hindi', 'tv', 12, 13, 23, 80);");
 
@@ -44,8 +62,8 @@ public class Crawler {
 		con.disconnect();
 
 		// public static void main(String[] args) {
-		//Crawler spider = new Crawler();
-		//spider.search("http://www.abyznewslinks.com/nicar.htm");
+		// Crawler spider = new Crawler();
+		// spider.search("http://www.abyznewslinks.com/nicar.htm");
 
 	}
 }

@@ -35,7 +35,7 @@ public class MySQLConnection {
 	}
 
 	// connect
-	public Connection connect() {
+	public Connection getConnection() {
 		if (connection == null) {
 			try {
 				Class.forName(DB_DRIVER);
