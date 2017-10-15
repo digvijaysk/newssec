@@ -18,6 +18,7 @@ public class CrawlerHelper {
 	// normal
 	// web browser.
 
+	List<DBRow> bulkData = null;
 	private static final String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
 	public static Set<String> pagesVisited = new HashSet<String>();
 
@@ -98,14 +99,17 @@ public class CrawlerHelper {
 
 	private void parseHTMLBlock(Element element) {
 		int index = 1;
+		int listSize = bulkData.size();
+
 		for (Element row : element.children()) {
-			parseHTMLLine(row, index);
+			parseHTMLLine(row, index, listSize);
 			index++;
 		}
 	}
 
-	private void parseHTMLLine(Element element, int lineNo) {
+	private void parseHTMLLine(Element element, int lineNo, int size) {
 		numberOfRows = 0;
+		bulkData = new ArrayList<DBRow>();
 
 		String row = element.html();
 		row = removeFontTag(row);
@@ -113,9 +117,21 @@ public class CrawlerHelper {
 
 		for (String s : colValue) {
 			if (lineNo == 1) {
-				// create object
+				bulkData.add(new DBRow(1, s));
 			} else {
-				// update object
+				if (lineNo == 2) {
+					bulkData.get(size + lineNo - 1).setLink(s);
+					//this.link = val;
+				} else if (lineNo == 3) {
+					bulkData.get(size + lineNo - 1).setMediaType(s);
+					//this.mediaType = val;
+				} else if (lineNo == 4) {
+					bulkData.get(size + lineNo - 1).setMediaFocus(s);
+				} else if (lineNo == 5) {
+					bulkData.get(size + lineNo - 1).setLanguage(s);
+				} else if (lineNo == 6) {
+					bulkData.get(size+lineNo-1).setSource(s);
+				}
 			}
 		}
 	}
@@ -238,19 +254,15 @@ class DBRow {
 	public DBRow(int index, String val) {
 		if (index == 1) {
 			this.coverage = val;
-
 		} else if (index == 2) {
 			this.link = val;
 		} else if (index == 3) {
-
 			this.mediaType = val;
 		} else if (index == 4) {
-
 			this.mediaFocus = val;
 		} else if (index == 5) {
-
 			this.language = val;
-		} else if (index == 5) {
+		} else if (index == 6) {
 			this.source = val;
 		}
 	}
