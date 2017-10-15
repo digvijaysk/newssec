@@ -14,20 +14,15 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 public class CrawlerHelper {
-	// We'll use a fake USER_AGENT so the web server thinks the robot is a
-	// normal
-	// web browser.
-
 	List<DBRow> bulkData = null;
 	private static final String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
 	public static Set<String> pagesVisited = new HashSet<String>();
 
 	private Document htmlDocument;
 	private List<DBRow> dbRecords;
-	private int numberOfRows;
 
 	public CrawlerHelper() {
-		dbRecords = new ArrayList<DBRow>();
+		bulkData = new ArrayList<DBRow>();
 	}
 
 	static {
@@ -108,36 +103,39 @@ public class CrawlerHelper {
 	}
 
 	private void parseHTMLLine(Element element, int lineNo, int size) {
-		numberOfRows = 0;
-		bulkData = new ArrayList<DBRow>();
 
+		int count = 0;
 		String row = element.html();
 		row = removeFontTag(row);
 		String[] colValue = getColumnValues(row);
 
 		for (String s : colValue) {
 			if (lineNo == 1) {
-				bulkData.add(new DBRow(1, s));
+				DBRow dbrow = new DBRow(1, s);
+				bulkData.add(dbrow);
 			} else {
 				if (lineNo == 2) {
-					bulkData.get(size + lineNo - 1).setLink(s);
-					//this.link = val;
+					bulkData.get(size + count).setLink(parseHrefToLink(s));
 				} else if (lineNo == 3) {
-					bulkData.get(size + lineNo - 1).setMediaType(s);
-					//this.mediaType = val;
+					bulkData.get(size + count).setMediaType(s);
 				} else if (lineNo == 4) {
-					bulkData.get(size + lineNo - 1).setMediaFocus(s);
+					bulkData.get(size + count).setMediaFocus(s);
 				} else if (lineNo == 5) {
-					bulkData.get(size + lineNo - 1).setLanguage(s);
+					bulkData.get(size + count).setLanguage(s);
 				} else if (lineNo == 6) {
-					bulkData.get(size+lineNo-1).setSource(s);
+					bulkData.get(size + count).setSource(s);
 				}
 			}
+			count++;
 		}
 	}
 
+	private String parseHrefToLink(String s) {
+		return s.substring(s.indexOf('"'), s.lastIndexOf('"'));
+	}
+
 	private String[] getColumnValues(String s) {
-		numberOfRows = s.lastIndexOf("<br>") - s.indexOf("<br>") + 1;
+		//numberOfRows = s.lastIndexOf("<br>") - s.indexOf("<br>") + 1;
 		return s.split("<br>");
 	}
 
