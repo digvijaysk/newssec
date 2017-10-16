@@ -1,0 +1,236 @@
+2017-10-15_23:44:19.719 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/asia.htm
+2017-10-15_23:44:19.830 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/easas.htm
+2017-10-15_23:44:19.949 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/neara.htm
+2017-10-15_23:44:20.067 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/socas.htm
+2017-10-15_23:44:20.533 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-15_23:44:20.534 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Asia
+2017-10-15_23:44:20.534 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Asia Regional
+2017-10-15_23:44:20.534 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry '"http://www.stripes.com/' for key 'url'
+2017-10-15_23:44:20.534 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-15_23:44:20.542 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/asiare.htm
+2017-10-15_23:44:20.768 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nearare.htm
+2017-10-15_23:44:21.066 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/afgha.htm
+2017-10-15_23:44:21.277 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/armen.htm
+2017-10-15_23:44:21.535 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/azerb.htm
+2017-10-15_23:44:21.669 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/bahra.htm
+2017-10-15_23:44:22.035 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/bangl.htm
+2017-10-15_23:44:22.197 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/bhuta.htm
+2017-10-15_23:44:22.332 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/brune.htm
+2017-10-15_23:44:22.464 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/cambo.htm
+2017-10-15_23:44:22.936 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/china.htm
+2017-10-15_23:44:23.068 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/chris.htm
+2017-10-15_23:44:23.190 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/cocos.htm
+2017-10-15_23:44:23.373 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/cypru.htm
+2017-10-15_23:44:23.502 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/fsout.htm
+2017-10-15_23:44:23.777 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/georg.htm
+2017-10-15_23:44:23.945 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/hongk.htm
+2017-10-15_23:44:24.057 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india.htm
+2017-10-15_23:44:24.254 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_national.htm
+2017-10-15_23:44:24.364 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_andaman_and_nicobar_islands.htm
+2017-10-15_23:44:24.487 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_andhra_pradesh.htm
+2017-10-15_23:44:24.608 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_arunachal_pradesh.htm
+2017-10-15_23:44:24.748 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_assam.htm
+2017-10-15_23:44:24.872 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_bihar.htm
+2017-10-15_23:44:24.986 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_chandigarh.htm
+2017-10-15_23:44:25.101 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_chhattisgarh.htm
+2017-10-15_23:44:25.216 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_delhi.htm
+2017-10-15_23:44:25.324 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_goa.htm
+2017-10-15_23:44:25.443 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_gujarat.htm
+2017-10-15_23:44:25.547 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_haryana.htm
+2017-10-15_23:44:25.651 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_himachal_pradesh.htm
+2017-10-15_23:44:25.773 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_jammu_and_kashmir.htm
+2017-10-15_23:44:25.877 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_jharkand.htm
+2017-10-15_23:44:25.998 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_karnataka.htm
+2017-10-15_23:44:26.113 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_kerala.htm
+2017-10-15_23:44:26.249 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_madhya_pradesh.htm
+2017-10-15_23:44:26.373 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_maharashtra.htm
+2017-10-15_23:44:26.477 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_manipur.htm
+2017-10-15_23:44:26.586 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_meghalaya.htm
+2017-10-15_23:44:26.697 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_mizoram.htm
+2017-10-15_23:44:26.812 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_nagaland.htm
+2017-10-15_23:44:26.926 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_orissa.htm
+2017-10-15_23:44:27.032 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_punjab.htm
+2017-10-15_23:44:27.138 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_rajasthan.htm
+2017-10-15_23:44:27.269 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_sikkim.htm
+2017-10-15_23:44:27.379 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_tamil_nadu.htm
+2017-10-15_23:44:27.494 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_tripura.htm
+2017-10-15_23:44:27.601 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_uttar_pradesh.htm
+2017-10-15_23:44:27.718 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_uttarakhand.htm
+2017-10-15_23:44:27.833 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/india_west_bengal.htm
+2017-10-15_23:44:28.148 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/indon.htm
+2017-10-15_23:44:28.403 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/iran.htm
+2017-10-15_23:44:28.580 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/iraq.htm
+2017-10-15_23:44:28.774 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/israe.htm
+2017-10-15_23:44:29.172 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/japan.htm
+2017-10-15_23:44:29.326 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/jorda.htm
+2017-10-15_23:44:29.598 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/kazak.htm
+2017-10-15_23:44:29.783 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/kuwai.htm
+2017-10-15_23:44:29.968 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/kyrgy.htm
+2017-10-15_23:44:30.147 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/laos.htm
+2017-10-15_23:44:30.355 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/leban.htm
+2017-10-15_23:44:30.502 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/macau.htm
+2017-10-15_23:44:30.743 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/malay.htm
+2017-10-15_23:44:30.909 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/maldi.htm
+2017-10-15_23:44:31.053 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/mongo.htm
+2017-10-15_23:44:31.247 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/myanm.htm
+2017-10-15_23:44:31.456 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nepal.htm
+2017-10-15_23:44:31.585 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nkore.htm
+2017-10-15_23:44:31.782 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/oman.htm
+2017-10-15_23:44:32.039 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pakis.htm
+2017-10-15_23:44:32.229 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pales.htm
+2017-10-15_23:44:32.475 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/phili.htm
+2017-10-15_23:44:32.667 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/qatar.htm
+2017-10-15_23:44:32.851 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/saudi.htm
+2017-10-15_23:44:32.970 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/singa.htm
+2017-10-15_23:44:33.221 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/skore.htm
+2017-10-15_23:44:33.415 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/srila.htm
+2017-10-15_23:44:33.648 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/syria.htm
+2017-10-15_23:44:33.860 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/taiwa.htm
+2017-10-15_23:44:34.056 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/tajik.htm
+2017-10-15_23:44:34.281 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/thail.htm
+2017-10-15_23:44:34.415 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/etimo.htm
+2017-10-15_23:44:34.745 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/turke.htm
+2017-10-15_23:44:34.936 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/turkm.htm
+2017-10-15_23:44:35.108 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/uarab.htm
+2017-10-15_23:44:35.291 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/uzbek.htm
+2017-10-15_23:44:35.814 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/vietn.htm
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/yemen.htm
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				Failed lines:
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				1<td nowrap valign="top" width="200"> <font face="Arial" size="2"> Regional<br> Regional<br> <br> Regional<br> Regional<br> Regional<br> Regional<br> Regional<br> Regional<br> Regional </font> </td> 
+<td nowrap valign="top" width="300"> <font face="Arial" size="2"> <a href="http://www.afrique-asie.fr/">Afrique Asie</a><br> <a href="http://www.aseanaffairs.com/">Asean Affairs</a><br> <br> <a href="http://www.asian-affairs.com/">Asian Affairs</a><br> <a href="http://www.asianinvestor.net/">Asian Investor</a><br> <a href="http://thediplomat.com/">Diplomat</a><br> <a href="http://www.financeasia.com/">Finance Asia</a><br> <a href="http://southasiajournal.net/">South Asia Journal</a><br> <a href="http://content.time.com/time/magazine/asia/">Time Asia</a><br> <a href="http://content.time.com/time/magazine/pacific/">Time South Pacific</a> </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> MG<br> MG<br> <br> MG<br> MG<br> MG<br> MG<br> MG<br> MG<br> MG </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> GI<br> GI<br> <br> GI<br> BU<br> GI<br> BU<br> GI<br> GI<br> GI </font> </td> 
+<td nowrap valign="top" width="35"> <font face="Arial" size="2"> FRA<br> ENG<br> <br> ENG<br> ENG<br> ENG<br> ENG<br> ENG<br> ENG<br> ENG </font> </td> 
+<td nowrap valign="top" width="175"> <font face="Arial" size="2"> <br> Covers Southeast<br> Asia<br> <br> <br> Covers Asia Pacific </font> </td>
+
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				2<td nowrap valign="top" width="200"> <font face="Arial" size="2"> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> Nationalp<br> Foreign<br> Foreign<br> Foreign<br> Foreign<br> Foreign<br> Foreign<br> Foreign<br> Foreign<br> Foreign </font> </td> 
+<td nowrap valign="top" width="300"> <font face="Arial" size="2"> <a href="http://www.asportsnews.com/">A Sports News</a><br> <a href="http://alqamar.info/news/">Al Qamar Online</a><br> <a href="http://www.allpakistaninews.com/">All Pakistani News</a><br> <a href="http://www.aycworldnews.com/">AYC&nbsp; World News</a><br> <a href="http://www.bordertimespk.com/">Border Times Pakistan</a><br> <a href="http://www.enews.pk/">E News</a><br> <a href="http://www.economistan.com/">Economistan</a><br> <a href="https://news.google.com/news/?ned=en_pk">Google</a><br> <a href="http://jang.com.pk/">Jang</a><br> <a href="http://www.myurdunews.com/">My Urdu News</a><br> <a href="http://newslink.pk/urdu/">News Link</a><br> <a href="http://newspakistan.net/">News Pakistan</a><br> <a href="http://www.onlinenews.com.pk/">Online International News Network</a><br> <a href="http://www.paktribune.com/">Pak Tribune</a><br> <a href="http://www.pakwatan.com/">Pak Watan</a><br> <a href="http://www.pakwatan.com/urdu.php">Pak Watan</a><br> <a href="http://thepakistaninewspaper.com/">Pakistani Newspaper</a><br> <a href="http://www.pakistans.com/">Pakistans</a><br> <a href="http://www.roznamaurdu.com/">Roznama Urdu</a><br> <a href="http://www.roznamaurdu.com.pk/">Roznama Urdu</a><br> <a href="http://www.shanakht.com/">Shanakht</a><br> <a href="http://www.urdunamah.com/">Urdu Namah</a><br> <a href="http://www.urdunews.net.pk/">Urdu News</a><br> <a href="http://www.walayat.net/">Walayatp</a><br> <a href="http://www.dannka.com/">Dannka</a><br> <a href="http://www.hipakistan.com/">Hi Pakistan</a><br> <a href="http://www.thekooza.com/">Kooza</a><br> <a href="http://www.onepakistan.com.pk/">One Pakistan</a><br> <a href="http://pakistan.onepakistan.com.pk/urdunews/">One Pakistan</a><br> <a href="http://gaypakistan.com/">Pakistan Daily</a><br> <a href="http://www.pakistannews.net/">Pakistan News</a><br> <a href="http://www.newsonlinepakistan.org/">Pakistan News Online</a><br> <a href="http://www.urdupoint.com/">Urdu Point</a> </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> BU<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> RL<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI </font> </td> 
+<td nowrap valign="top" width="35"> <font face="Arial" size="2"> ENG<br> URD<br> ENG<br> ENG<br> ENG<br> ENG<br> ENG<br> ENG<br> ENG<br> URD<br> URD<br> ENG<br> ENG<br> ENG<br> ENG<br> URD<br> ENG<br> ENG<br> ENG<br> URD<br> URD<br> URD<br> URD<br> URD<br> URD<br> ENG<br> ENG<br> ENG<br> URD<br> ENG<br> ENG<br> ENG<br> URD </font> </td> 
+<td nowrap valign="top" width="175"> <font face="Arial" size="2"> <br> <br> <br> <br> <br> Also URD<br> <br> <br> Also URD<br> <br> <br> <br> <br> <br> <br> <br> Also URD<br> <br> <br> <br> <br> <br> <br> Shia<br> <br> Also URD </font> </td>
+
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				3<td nowrap valign="top" width="200"> <font face="Arial" size="2"> National<br> National<br> National<br> National<br> National<br> <br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National<br> National </font> </td> 
+<td nowrap valign="top" width="300"> <font face="Arial" size="2"> <a href="http://www.anons.uz/ru/">Anons</a><br> <a href="http://www.anons.uz/uz/">Anons</a><br> <a href="http://asr.uz/">ASR</a><br> <a href="https://daryo.uz/">Daryo</a><br> <a href="http://www.doda.uz/">Doda</a><br> <br> <a href="https://www.gazeta.uz/ru/">Gazeta</a><br> <a href="https://www.gazeta.uz/uz/">Gazeta</a><br> <a href="https://www.gazeta.uz/oz/">Gazeta</a><br> <a href="https://haqida.net/uz/">Haqida</a><br> <a href="https://haqida.net/">Haqida</a><br> <a href="http://hordiq.uz/">Hordiq</a><br> <a href="http://hozir.uz/">Hozir</a><br> <a href="http://kun.uz/en">Kun</a><br> <a href="http://kun.uz/ru">Kun</a><br> <a href="http://kun.uz/">Kun</a><br> <a href="http://kun.uz/uz">Kun</a><br> <a href="http://www.namnews.uz/">Nam News</a><br> <a href="http://press-uz.info/">Press News</a><br> <a href="http://www.publika.uz/">Publika</a><br> <a href="http://www.qalampir.uz/">Qalampir</a><br> <a href="http://www.sof.uz/">Sof</a><br> <a href="http://www.tridantus.uz/">Tridantus</a><br> <a href="http://www.uzdaily.com/">UZ Daily</a><br> <a href="https://www.uzdaily.uz/">UZ Daily</a><br> <a href="https://uz.uzdaily.uz/">UZ Daily</a><br> <a href="http://www.uzmetronom.com/">UZ Metronom</a><br> <a href="http://www.uznews.uz/?lang=ru">UZ News</a><br> <a href="http://www.uznews.uz/?lang=uz">UZ News</a><br> <a href="http://uzreport.uz/?lan=e">UZ Report</a><br> <a href="http://uzreport.uz/">UZ Report</a><br> <a href="http://uzreport.uz/?lan=u">UZ Report</a><br> <a href="http://www.uz24.uz/ru">UZ24</a><br> <a href="http://www.uz24.uz/uz">UZ24</a><br> <a href="http://www.uzbekistannews.net/">Uzbekistan News</a> </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> IN<br> IN<br> IN<br> IN<br> IN<br> <br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN<br> IN </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> GI<br> GI<br> GI<br> GI<br> GI<br> <br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> GI<br> BU<br> BU<br> BU<br> GI<br> GI<br> GI </font> </td> 
+<td nowrap valign="top" width="35"> <font face="Arial" size="2"> RUS<br> UZB<br> UZB<br> UZB<br> RUS<br> <br> RUS<br> UZB<br> UZB<br> UZB<br> UZB<br> UZB<br> UZB<br> ENG<br> RUS<br> UZB<br> UZB<br> UZB<br> RUS<br> RUS<br> UZB<br> UZB<br> UZB<br> ENG<br> RUS<br> UZB<br> UZB<br> RUS<br> UZB<br> ENG<br> RUS<br> UZB<br> RUS<br> UZB<br> ENG </font> </td> 
+<td nowrap valign="top" width="175"> <font face="Arial" size="2"> <br> <br> <br> <br> Also UZB Cyrillic<br> and UZB Latin<br> <br> Cyrillic<br> Latin<br> Cyrillic<br> Latin<br> <br> <br> <br> <br> Cyrillic<br> Latin </font> </td>
+
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				4<td nowrap valign="top" width="200"> <font face="Arial" size="2"> Samarkand -<br> Samarqand<br> Samarkand -<br> Samarqand </font> </td> 
+<td nowrap valign="top" width="300"> <font face="Arial" size="2"> <a href="http://www.samarkandnews.uz/">Samarqand</a><br> <br> <a href="http://stv.uz/">STV</a> </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> NP<br> <br> BC </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> GI<br> <br> GI </font> </td> 
+<td nowrap valign="top" width="35"> <font face="Arial" size="2"> UZB<br> <br> RUS </font> </td> 
+<td nowrap valign="top" width="175"> <font face="Arial" size="2"> <br> <br> TV </font> </td>
+
+2017-10-15_23:44:35.987 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				5<td nowrap valign="top" width="200"> <font face="Arial" size="2"> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh<br> Ho Chi Minh City -<br> Thanh Pho Ho Chi Minh </font> </td> 
+<td nowrap valign="top" width="300"> <font face="Arial" size="2"> <a href="http://congan.com.vn/">Cong An Thanh Pho Ho Chi Minh</a><br> <br> <a href="http://www.thesaigontimes.vn/">Kinhte Saigon</a><br> <br> <a href="http://nld.com.vn/">Nguoi Lao Dong</a><br> <br> <a href="http://sggpnews.org.vn/">Saigon Giai Phong</a><br> <br> <a href="http://www.sggp.org.vn/">Saigon Giai Phong</a><br> <br> <a href="http://english.thesaigontimes.vn/">Saigon Times</a><br> <br> <a href="http://thanhnien.vn/">Thanh Nien</a><br> <br> <a href="http://tuoitrenews.vn/">Tuoi Tre</a><br> <br> <a href="http://tuoitre.vn/">Tuoi Tre</a><br> <br> <a href="https://voh.com.vn/">VOH</a> </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> NP<br> <br> NP<br> <br> NP<br> <br> NP<br> <br> NP<br> <br> NP<br> <br> NP<br> <br> NP<br> <br> NP<br> <br> BC </font> </td> 
+<td nowrap valign="top" width="25"> <font face="Arial" size="2"> GI<br> <br> GI<br> <br> GI<br> <br> GI<br> <br> GI<br> <br> GI<br> <br> GI<br> <br> GI<br> <br> GI<br> <br> GI </font> </td> 
+<td nowrap valign="top" width="35"> <font face="Arial" size="2"> VIE<br> <br> VIE<br> <br> VIE<br> <br> ENG<br> <br> VIE<br> <br> ENG<br> <br> VIE<br> <br> ENG<br> <br> VIE<br> <br> VIE </font> </td> 
+<td nowrap valign="top" width="175"> <font face="Arial" size="2"> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> Radio </font> </td>
+

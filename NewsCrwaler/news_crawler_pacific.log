@@ -1,0 +1,624 @@
+2017-10-16_00:40:36.523 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pacif.htm
+2017-10-16_00:40:36.633 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/ausnz.htm
+2017-10-16_00:40:36.746 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pacif.htm
+2017-10-16_00:40:36.853 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/melan.htm
+2017-10-16_00:40:36.957 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/mnesi.htm
+2017-10-16_00:40:37.057 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/polyn.htm
+2017-10-16_00:40:37.428 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pacifre.htm
+2017-10-16_00:40:37.546 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:40:37.546 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:40:37.547 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: American Samoa
+2017-10-16_00:40:37.547 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.manuatele.net/' for key 'url'
+2017-10-16_00:40:37.548 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:40:37.554 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:40:37.554 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:40:37.554 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: American Samoa
+2017-10-16_00:40:37.554 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.samoanews.com/' for key 'url'
+2017-10-16_00:40:37.555 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:40:37.561 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/asamo.htm
+2017-10-16_00:40:37.712 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/antar.htm
+2017-10-16_00:40:37.811 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austr.htm
+2017-10-16_00:40:37.998 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrna.htm
+2017-10-16_00:40:38.125 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrac.htm
+2017-10-16_00:41:29.469 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:41:29.473 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:41:29.474 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Australia
+2017-10-16_00:41:29.474 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Lock wait timeout exceeded; try restarting transaction
+2017-10-16_00:41:29.476 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:41:29.476 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrns.htm
+2017-10-16_00:41:29.636 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrnt.htm
+2017-10-16_00:41:29.802 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrqu.htm
+2017-10-16_00:41:29.958 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrsa.htm
+2017-10-16_00:41:30.077 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrta.htm
+2017-10-16_00:41:30.287 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrvi.htm
+2017-10-16_00:42:21.592 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.592 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.592 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Australia
+2017-10-16_00:42:21.592 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Lock wait timeout exceeded; try restarting transaction
+2017-10-16_00:42:21.593 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.593 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrwa.htm
+2017-10-16_00:42:21.802 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.803 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.803 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Cook Islands
+2017-10-16_00:42:21.803 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.radio.co.ck/' for key 'url'
+2017-10-16_00:42:21.803 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.810 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.810 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.810 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Cook Islands
+2017-10-16_00:42:21.810 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.cook-islands.gov.ck/' for key 'url'
+2017-10-16_00:42:21.811 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.825 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.825 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.825 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Cook Islands
+2017-10-16_00:42:21.825 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.cookislandsnews.com/' for key 'url'
+2017-10-16_00:42:21.825 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.834 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.834 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.834 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Cook Islands
+2017-10-16_00:42:21.834 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.ciherald.co.ck/' for key 'url'
+2017-10-16_00:42:21.834 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.834 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/cooki.htm
+2017-10-16_00:42:21.975 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.975 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.976 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Fiji
+2017-10-16_00:42:21.976 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fbc.com.fj/' for key 'url'
+2017-10-16_00:42:21.976 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.983 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.983 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.984 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Fiji
+2017-10-16_00:42:21.984 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fiji.gov.fj/' for key 'url'
+2017-10-16_00:42:21.984 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.988 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.988 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.988 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Fiji
+2017-10-16_00:42:21.988 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://republikamagazine.com/' for key 'url'
+2017-10-16_00:42:21.989 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.993 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.993 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.993 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Fiji
+2017-10-16_00:42:21.993 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fiji.gov.fj/Media-Center/Fiji-Focus.aspx' for key 'url'
+2017-10-16_00:42:21.993 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:21.998 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:21.998 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:21.998 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Fiji
+2017-10-16_00:42:21.998 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://fijisun.com.fj/' for key 'url'
+2017-10-16_00:42:21.998 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.002 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.002 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.002 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Fiji
+2017-10-16_00:42:22.002 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://thejetnewspaper.com/' for key 'url'
+2017-10-16_00:42:22.002 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.002 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/fiji.htm
+2017-10-16_00:42:22.111 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.111 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.111 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: French Polynesia
+2017-10-16_00:42:22.111 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://polynesie.la1ere.fr/' for key 'url'
+2017-10-16_00:42:22.111 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.116 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.116 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.117 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: French Polynesia
+2017-10-16_00:42:22.117 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.tahiti-infos.com/' for key 'url'
+2017-10-16_00:42:22.117 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.122 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.122 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.122 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: French Polynesia
+2017-10-16_00:42:22.122 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.tahiti-pacifique.com/' for key 'url'
+2017-10-16_00:42:22.122 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.128 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.128 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.128 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: French Polynesia
+2017-10-16_00:42:22.128 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.ladepeche.pf/' for key 'url'
+2017-10-16_00:42:22.128 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.135 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.135 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.135 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: French Polynesia
+2017-10-16_00:42:22.135 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.radio1.pf/' for key 'url'
+2017-10-16_00:42:22.135 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.135 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/fpoly.htm
+2017-10-16_00:42:22.241 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.242 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.242 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Guam
+2017-10-16_00:42:22.242 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.pacificnewscenter.com/' for key 'url'
+2017-10-16_00:42:22.242 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.247 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.248 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.248 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Guam
+2017-10-16_00:42:22.248 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://mbjguam.com/' for key 'url'
+2017-10-16_00:42:22.248 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.252 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.253 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.253 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Guam
+2017-10-16_00:42:22.253 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.guampdn.com/' for key 'url'
+2017-10-16_00:42:22.253 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.258 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.258 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.258 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Guam
+2017-10-16_00:42:22.258 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.mvguam.com/' for key 'url'
+2017-10-16_00:42:22.258 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.258 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/guam.htm
+2017-10-16_00:42:22.366 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.366 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.366 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Kiribati
+2017-10-16_00:42:22.366 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://kiribatiupdates.com.ki/' for key 'url'
+2017-10-16_00:42:22.367 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.367 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/kirib.htm
+2017-10-16_00:42:22.475 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.476 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.476 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Marshall Islands
+2017-10-16_00:42:22.476 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.yokwe.net/' for key 'url'
+2017-10-16_00:42:22.476 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.481 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.481 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.481 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Marshall Islands
+2017-10-16_00:42:22.481 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.marshallislandsjournal.com/' for key 'url'
+2017-10-16_00:42:22.482 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.485 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/marsh.htm
+2017-10-16_00:42:22.595 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.596 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.596 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Micronesia
+2017-10-16_00:42:22.596 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fm/news.htm' for key 'url'
+2017-10-16_00:42:22.596 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.601 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.601 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.602 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Micronesia
+2017-10-16_00:42:22.602 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.kpress.info/' for key 'url'
+2017-10-16_00:42:22.602 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.606 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.606 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.606 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Micronesia
+2017-10-16_00:42:22.606 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fm/chuuk/radio.htm' for key 'url'
+2017-10-16_00:42:22.606 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.610 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.611 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.611 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Micronesia
+2017-10-16_00:42:22.611 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fm/kosrae/radio.htm' for key 'url'
+2017-10-16_00:42:22.611 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.615 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.615 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.615 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Micronesia
+2017-10-16_00:42:22.615 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fm/pohnpei/radio.htm' for key 'url'
+2017-10-16_00:42:22.615 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.619 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.619 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.619 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Micronesia
+2017-10-16_00:42:22.619 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.fm/yap/radio.htm' for key 'url'
+2017-10-16_00:42:22.619 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.619 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/micro.htm
+2017-10-16_00:42:22.721 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.721 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.721 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Nauru
+2017-10-16_00:42:22.721 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.loopnauru.com/' for key 'url'
+2017-10-16_00:42:22.721 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.721 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nauru.htm
+2017-10-16_00:42:22.828 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.828 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.828 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: New Caledonia
+2017-10-16_00:42:22.828 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://nouvellecaledonie.la1ere.fr/' for key 'url'
+2017-10-16_00:42:22.828 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.835 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.835 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.835 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: New Caledonia
+2017-10-16_00:42:22.835 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.lnc.nc/' for key 'url'
+2017-10-16_00:42:22.835 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.841 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:22.841 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:22.841 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: New Caledonia
+2017-10-16_00:42:22.841 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.dnc.nc/' for key 'url'
+2017-10-16_00:42:22.841 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:22.841 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/newca.htm
+2017-10-16_00:42:23.134 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/newze.htm
+2017-10-16_00:42:23.244 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.244 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.244 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Niue
+2017-10-16_00:42:23.245 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.niueisland.com/news' for key 'url'
+2017-10-16_00:42:23.245 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.245 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/niue.htm
+2017-10-16_00:42:23.356 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/norfo.htm
+2017-10-16_00:42:23.457 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.457 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.457 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Northern Mariana Islands
+2017-10-16_00:42:23.457 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.saipantribune.com/' for key 'url'
+2017-10-16_00:42:23.457 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.461 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.461 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.461 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Northern Mariana Islands
+2017-10-16_00:42:23.461 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.mvariety.com/' for key 'url'
+2017-10-16_00:42:23.461 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.461 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nmari.htm
+2017-10-16_00:42:23.565 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.565 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.565 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Palau
+2017-10-16_00:42:23.565 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.tiabelaunews.com/' for key 'url'
+2017-10-16_00:42:23.565 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.569 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/palau.htm
+2017-10-16_00:42:23.676 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.677 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.677 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Papua New Guinea
+2017-10-16_00:42:23.677 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://nbc.com.pg/' for key 'url'
+2017-10-16_00:42:23.677 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.686 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.686 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.686 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Papua New Guinea
+2017-10-16_00:42:23.686 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.looppng.com/' for key 'url'
+2017-10-16_00:42:23.687 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.696 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.696 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.696 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Papua New Guinea
+2017-10-16_00:42:23.697 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.thenational.com.pg/' for key 'url'
+2017-10-16_00:42:23.697 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.701 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.701 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.701 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Papua New Guinea
+2017-10-16_00:42:23.701 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.postcourier.com.pg/' for key 'url'
+2017-10-16_00:42:23.702 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.702 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/papua.htm
+2017-10-16_00:42:23.811 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.811 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.812 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Pitcairn
+2017-10-16_00:42:23.812 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.demtullpitcairn.com/' for key 'url'
+2017-10-16_00:42:23.812 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.821 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.821 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.821 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Pitcairn
+2017-10-16_00:42:23.821 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.miscellany.pn/' for key 'url'
+2017-10-16_00:42:23.821 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.830 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pitca.htm
+2017-10-16_00:42:23.935 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.935 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.935 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Samoa
+2017-10-16_00:42:23.935 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.loopsamoa.com/' for key 'url'
+2017-10-16_00:42:23.935 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.940 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.940 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.940 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Samoa
+2017-10-16_00:42:23.940 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.talamua.com/' for key 'url'
+2017-10-16_00:42:23.940 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.945 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.945 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.945 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Samoa
+2017-10-16_00:42:23.945 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.samoaobserver.ws/' for key 'url'
+2017-10-16_00:42:23.945 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.949 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:23.950 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:23.950 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Samoa
+2017-10-16_00:42:23.950 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.lesamoanews.com/' for key 'url'
+2017-10-16_00:42:23.950 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:23.950 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/samoa.htm
+2017-10-16_00:42:24.053 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:24.054 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:24.054 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Solomon Islands
+2017-10-16_00:42:24.054 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.sibconline.com.sb/' for key 'url'
+2017-10-16_00:42:24.054 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:24.058 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:24.059 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:24.059 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Solomon Islands
+2017-10-16_00:42:24.059 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.solomontimes.com/' for key 'url'
+2017-10-16_00:42:24.059 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:24.064 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:42:24.064 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:42:24.064 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Solomon Islands
+2017-10-16_00:42:24.064 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.solomonstarnews.com/' for key 'url'
+2017-10-16_00:42:24.064 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:42:24.071 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/solom.htm
+2017-10-16_00:43:15.353 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_00:43:15.355 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_00:43:15.355 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Tonga
+2017-10-16_00:43:15.355 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Lock wait timeout exceeded; try restarting transaction
+2017-10-16_00:43:15.355 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_00:43:15.368 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/tonga.htm
+2017-10-16_00:43:15.474 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/tuval.htm
+2017-10-16_00:43:15.589 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/vanua.htm
+2017-10-16_00:43:15.698 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/walli.htm
+2017-10-16_00:43:15.698 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				Failed lines:

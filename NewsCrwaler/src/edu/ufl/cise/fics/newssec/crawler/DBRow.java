@@ -68,7 +68,9 @@ public class DBRow {
 		this.source = source;
 	}
 
-	public DBRow(int index, String val) {
+	public DBRow(int index, String val, String continent, String country) {
+		this.setContinent(continent);
+		this.setCountry(country);
 		if (index == 1) {
 			this.coverage = val;
 		} else if (index == 2) {

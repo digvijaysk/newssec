@@ -1,0 +1,144 @@
+2017-10-16_09:29:48.479 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pacif.htm
+2017-10-16_09:29:48.591 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/ausnz.htm
+2017-10-16_09:29:48.704 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pacif.htm
+2017-10-16_09:29:48.808 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/melan.htm
+2017-10-16_09:29:48.908 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/mnesi.htm
+2017-10-16_09:29:49.007 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/polyn.htm
+2017-10-16_09:29:49.382 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_09:29:49.382 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_09:29:49.382 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Oceania Regional
+2017-10-16_09:29:49.382 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.channelnewsasia.com/asiapacific/' for key 'url'
+2017-10-16_09:29:49.383 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_09:29:49.391 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_09:29:49.391 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_09:29:49.391 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Oceania Regional
+2017-10-16_09:29:49.391 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.apmforum.com/' for key 'url'
+2017-10-16_09:29:49.392 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_09:29:49.411 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_09:29:49.411 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_09:29:49.411 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Oceania Regional
+2017-10-16_09:29:49.411 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.stripes.com/' for key 'url'
+2017-10-16_09:29:49.412 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_09:29:49.412 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pacifre.htm
+2017-10-16_09:29:49.539 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/asamo.htm
+2017-10-16_09:29:49.664 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/antar.htm
+2017-10-16_09:29:49.764 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austr.htm
+2017-10-16_09:29:49.911 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_09:29:49.911 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_09:29:49.911 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Australia
+2017-10-16_09:29:49.911 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.australiaplus.com/french/' for key 'url'
+2017-10-16_09:29:49.912 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_09:29:49.921 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_09:29:49.921 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_09:29:49.921 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Australia
+2017-10-16_09:29:49.921 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Duplicate entry 'http://www.alankabout.com/' for key 'url'
+2017-10-16_09:29:49.922 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_09:29:49.954 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrna.htm
+2017-10-16_09:29:50.080 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrac.htm
+2017-10-16_09:30:41.406 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				There is problem saving data to the database.---------------------
+2017-10-16_09:30:41.407 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Continent: Oceania
+2017-10-16_09:30:41.408 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Country: Australia
+2017-10-16_09:30:41.408 [main] ERROR e.u.c.f.n.crawler.CrawlerHelper -
+				Lock wait timeout exceeded; try restarting transaction
+2017-10-16_09:30:41.408 [main] INFO  e.u.c.f.n.crawler.CrawlerHelper -
+				END stacktrace---------------------
+2017-10-16_09:30:41.409 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrns.htm
+2017-10-16_09:30:41.554 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrnt.htm
+2017-10-16_09:30:41.733 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrqu.htm
+2017-10-16_09:30:41.886 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrsa.htm
+2017-10-16_09:30:42.025 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrta.htm
+2017-10-16_09:30:42.238 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrvi.htm
+2017-10-16_09:30:42.397 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/austrwa.htm
+2017-10-16_09:30:42.542 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/cooki.htm
+2017-10-16_09:30:42.706 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/fiji.htm
+2017-10-16_09:30:42.847 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/fpoly.htm
+2017-10-16_09:30:42.969 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/guam.htm
+2017-10-16_09:30:43.079 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/kirib.htm
+2017-10-16_09:30:43.205 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/marsh.htm
+2017-10-16_09:30:43.339 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/micro.htm
+2017-10-16_09:30:43.462 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nauru.htm
+2017-10-16_09:30:43.586 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/newca.htm
+2017-10-16_09:30:43.856 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/newze.htm
+2017-10-16_09:30:43.966 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/niue.htm
+2017-10-16_09:30:44.078 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/norfo.htm
+2017-10-16_09:30:44.195 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/nmari.htm
+2017-10-16_09:30:44.312 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/palau.htm
+2017-10-16_09:30:44.432 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/papua.htm
+2017-10-16_09:30:44.566 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/pitca.htm
+2017-10-16_09:30:44.686 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/samoa.htm
+2017-10-16_09:30:44.808 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/solom.htm
+2017-10-16_09:30:44.933 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/tonga.htm
+2017-10-16_09:30:45.053 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/tuval.htm
+2017-10-16_09:30:45.176 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/vanua.htm
+2017-10-16_09:30:45.288 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				http://www.abyznewslinks.com/walli.htm
+2017-10-16_09:30:45.288 [main] INFO  e.u.c.fics.newssec.crawler.Crawler -
+				Failed lines:
